@@ -1,0 +1,40 @@
+File types:-
+2 types
+Character data
+Multimedia
+Modes of files:=
+5 types
+[read(r),write(w),append(a)],[read byte(rb),write byte(wb)]
+               |                       |
+            char data                multi
+
+read, read line, read lines
+All file should have a name,location and extension
+
+THE First record in csv file is always a header or fields/fieldnames
+To skip headers from processing we use [ next(data) ]
+
+Create a python script to display students students whose gen is male & cgpa <3
+JSON is a dictionary of dictionaries
+it is a open cross platform data to be shared among different servers/sources ("Internet thing")
+In python json is used to represent data it is a alternative to csv files
+json is  built in module we need to import
+some of the methods to be worked:==
+LOAD load()  [read of json data in form of dic]
+DUMP dump()  [write of json data in form of dic]
+LOADS loads()  [read of json data in form of str]
+DUMPS dumps()  [write of json data in form of str]
+{ * * * CONTEXT MANAGER * * * }
+
+In python "with"
+is a key word to create CONTEXT MANAGER to work with
+files
+database
+networks etc,
+Where the connections ca bre automatically closed
+NOTE:==
+with is a CONTEXT MANAGER mostly used in DB connections
+
+DISPLAY NAMES OF THE STATES WHO ARE HAVING MORE THAN TWO AREA CODES
+or
+DISPLAY NAMES OF THE STATES,NUMBER OF AREA CODES FOR EVERY STATES
